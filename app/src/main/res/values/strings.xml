@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDoWithFireBase</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_text">Зарегестрируйтесь или войдите в учетную запись</string>
+    <string name="LogIn">Войти</string>
+    <string name="Register">Зарегестрироваться</string>
+    <string name="SomeDate">Дата</string>
+    <string name="SomeCase">Дело</string>
+    <string name="AddCase">Добавить дело</string>
+</resources>
